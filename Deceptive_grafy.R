@@ -1,7 +1,15 @@
 library(ggplot2)
 library(dplyr)
 library(magrittr)
+# uncomment to install
+# install.packages("ggforce")
 library(ggforce)
+
+# create dir using code
+# dir.create("Linegraph")
+# dir.create("Piechart")
+# dir.create("Cumulative")
+# dir.create("Log_chart")
 
 ### Začátek upravených grafů
 #Linegraph - AR
